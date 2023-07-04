@@ -17,7 +17,7 @@ chmod +x /usr/share/applications/CorientRDP.desktop
 if [ $? -eq 0 ]; then
   echo "Icon installed / Updated - CorientRDP"
 else
-  echo "Error when creating or updateing Icon"
+  echo "Error when creating or updating Icon"
   exit 1
 fi
 exit 0
