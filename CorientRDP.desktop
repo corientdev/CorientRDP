@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=CorientRDP
+Exec=python3 /opt/corientrdp/corient-rdp.py
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Icon=/opt/corientrdp/corient-rdp.png
+metadata::trusted=yes
